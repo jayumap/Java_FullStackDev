@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Problems/" kind="src" path="FSDJava"/>
+	<classpathentry kind="src" path="FSDJava/Problems"/>
+	<classpathentry kind="src" path="JAVA_FullStack/src"/>
+	<classpathentry kind="output" path="JAVA_FullStack/bin"/>
+</classpath>
