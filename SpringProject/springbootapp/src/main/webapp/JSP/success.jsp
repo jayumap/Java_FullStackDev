@@ -46,7 +46,6 @@ function editUser()
 					<td>${user.name}</td>
 					<td>${user.username}</td>
 					<td>${user.password}</td>
-					<td>${user.mobileno}</td>
 				</tr>	
 			</c:forEach>
 
