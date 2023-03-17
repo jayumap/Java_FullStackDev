@@ -5,7 +5,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<center><h1>ALL INFORMAITION</h1></center>
+<center><h1>ALL INFORMATION</h1></center>
 
 <script type="text/javascript">
 function addUser() {
