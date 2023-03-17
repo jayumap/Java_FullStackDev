@@ -41,10 +41,10 @@ function editUser()
 			
 				<c:forEach items="${data}" var="user">
 				<tr>
-					<td><input type="radio" name="uid" value="${user.uid}"></td>
-					<td>${user.uid}</td>
+					<td><input type="radio" name="sid" value="${user.sid}"></td>
+					<td>${user.sid}</td>
 					<td>${user.name}</td>
-					<td>${user.uname}</td>
+					<td>${user.username}</td>
 					<td>${user.password}</td>
 					<td>${user.mobileno}</td>
 				</tr>	
